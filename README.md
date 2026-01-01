@@ -125,11 +125,5 @@ You may modify and extend the code as needed.
 
 ---
 
-If you want next, I can:
-- Add **block diagrams** (drive + throwing mechanism)
-- Convert this to a **portfolio-ready project**
-- Explain **why joystick mixing works mathematically**
-- Clean up and **optimize the control logic**
 
-Just tell me 👍
 
